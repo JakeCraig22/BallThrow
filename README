@@ -1,10 +1,6 @@
 # LuaCode
-Projects and code I have made in Roblox Studio
-I have a fun hobby of remaking survivor challenges in roblox, so I made these! 
-Linked in this are demo videos of what I have scripted
+I like to recreate Survivor challenges, this challenge was a direct recreation of this: https://www.youtube.com/watch?v=gMBbRZavR4o
+There are two main functions to the scripts, clicking to retrieve the ball and clicking to throw the ball.
 
-Ball Throwing - https://youtu.be/KKhjYZPso4s
-Gear Puzzle - https://youtu.be/UIl-ppV3c58
-"Get A Grip" - https://youtu.be/9UvvBpcwFzA
-"Leap of Faith" - https://youtu.be/SI_9Kn85KcM
-Placing Objects - https://youtu.be/-V9pNDIEAsI
+Demo of the scripts working - https://youtu.be/KKhjYZPso4s 
+
